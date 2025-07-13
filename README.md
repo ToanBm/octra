@@ -1,7 +1,29 @@
 # Octra Public Testnet
-
 ## Join Discord
 https://discord.gg/6P5n696s
+## Sent my wallet
+```
+oct91NwqabJq3D325wzqr3Wm7RsMpwDgfo77gRSNfWNU7xN
+```
+## Update CLI
+### Update git:
+```
+cd octra_pre_client
+git pull origin main
+```
+### Install requirements:
+```
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+```
+### Run CLI
+```
+python3 -m venv venv
+source venv/bin/activate
+python3 cli.py
+```
+***** Done!****
 
 ---
 ## Install dependecies
